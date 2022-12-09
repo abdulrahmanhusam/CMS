@@ -3,10 +3,10 @@
 ### A content management system, often abbreviated as CMS, is software that helps users create, manage, and modify content on a website without the need for specialized technical knowledge.
 
 ## Used Technologies:
-    - For Front-end development:
-      + HTML5, CSS3, Bootstrap, Javascript and Jquery.
-    - For Back-end development:
-      + PHP 8.1, SQL DB, Apache HTTP Server Project.
+- For Front-end development:
+    + HTML5, CSS3, Bootstrap, Javascript and Jquery.
+- For Back-end development:
+    + PHP 8.1, SQL DB, Apache HTTP Server Project.
     
  ## Description:
  This web application contain two types of users with different privileges:
@@ -25,4 +25,4 @@
     
 #### Also, there are many features in this website.
 
-###### Feel free to contact me any time.
+###### Feel free to contact me at any time.
