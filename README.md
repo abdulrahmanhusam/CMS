@@ -4,9 +4,9 @@
 
 ## Used Technologies:
     - For Front-end development:
-      * HTML5, CSS3, Bootstrap, Javascript and Jquery.
+      + HTML5, CSS3, Bootstrap, Javascript and Jquery.
     - For Back-end development:
-      * PHP 8.1, SQL DB, Apache HTTP Server Project.
+      + PHP 8.1, SQL DB, Apache HTTP Server Project.
     
  ## Description:
  This web application contain two types of users with different privileges:
@@ -23,4 +23,6 @@
     
     
     
-### There are many features in this website you can see them.
+#### Also, there are many features in this website.
+
+###### Feel free to contact me any time.
